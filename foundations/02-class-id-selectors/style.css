@@ -1,0 +1,22 @@
+.odd
+{
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+    background-color: #fc0356;
+}
+
+.bigger-print
+{
+    font-size: 24px;
+}
+
+#second
+{
+    color: rgb(50, 86, 168);
+    font-size: 36px;
+}
+
+#fourth
+{
+    background-color: hsl(132, 76%, 70%);
+    font-weight: bold;
+}
